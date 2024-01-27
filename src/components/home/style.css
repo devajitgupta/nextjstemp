@@ -1,0 +1,15 @@
+.reflectionTringle {
+   -webkit-box-reflect: below 0px
+      linear-gradient(to top, #0c6c6c2c, transparent 10%);
+}
+
+.rectangleReflection {
+   -webkit-box-reflect: below 0px
+      linear-gradient(to top, #00333330, transparent 20%);
+   /* rotate: 35deg; */
+}
+
+.reflectionSemiCircle {
+   -webkit-box-reflect: below -70px linear-gradient(to top, #62e99843, transparent
+            40%);
+}

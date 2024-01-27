@@ -1,0 +1,242 @@
+.mediaViewInfo {
+  --web-view-name: Artboard – 2;
+  --web-view-id: Artboard__2;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Artboard__2;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Artboard__2 {
+  position: absolute;
+  /* top: 5px; */
+  width: 431px;
+  height: 441px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: Artboard – 2;
+  --web-view-id: Artboard__2;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Layer_x0020_1 {
+  position: absolute;
+  width: 404.098px;
+  height: 404.444px;
+  left: 13px;
+  top: 18px;
+  overflow: visible;
+  text-align: center;
+}
+#_545119512 {
+  position: absolute;
+  width: 404.098px;
+  height: 404.444px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_1 {
+  fill: rgba(251, 167, 9, 1);
+}
+.Path_1 {
+  overflow: visible;
+  position: absolute;
+  width: 247.425px;
+  height: 199.311px;
+  left: 0px;
+  top: 27.976px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_2 {
+  fill: rgba(99, 92, 172, 1);
+}
+.Path_2 {
+  overflow: visible;
+  position: absolute;
+  width: 200.798px;
+  height: 246.114px;
+  left: 28.127px;
+  top: 158.331px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_3 {
+  fill: rgba(237, 33, 32, 1);
+}
+.Path_3 {
+  overflow: visible;
+  position: absolute;
+  width: 244.76px;
+  height: 195.857px;
+  left: 159.338px;
+  top: 180.483px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4 {
+  fill: rgba(0, 167, 77, 1);
+}
+.Path_4 {
+  overflow: visible;
+  position: absolute;
+  width: 198.101px;
+  height: 248.811px;
+  left: 178.72px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Group_6 {
+  position: absolute;
+  width: 77px;
+  height: 78.732px;
+  left: 159.306px;
+  top: 160.782px;
+  overflow: visible;
+}
+#Jappie {
+  left: 12.694px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 56px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  color: rgba(43, 42, 41, 1);
+}
+#van_de_Hooischuur {
+  left: 5.456px;
+  top: 24.265px;
+  position: absolute;
+  overflow: visible;
+  width: 68px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 8px;
+  color: rgba(43, 42, 41, 1);
+}
+#Heftruck_Instructeur {
+  left: 0px;
+  top: 50.975px;
+  position: absolute;
+  overflow: visible;
+  width: 78px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 8px;
+  color: rgba(43, 42, 41, 1);
+}
+#Medior {
+  left: 28.37px;
+  top: 69.732px;
+  position: absolute;
+  overflow: visible;
+  width: 26px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 8px;
+  color: rgba(43, 42, 41, 1);
+}
+#Doorgroeien {
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, -20.3427, 272.4925)
+    rotate(90deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 73px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  color: rgba(99, 92, 172, 1);
+}
+#Group_3 {
+  position: absolute;
+  width: 62px;
+  height: 13px;
+  left: 97.72px;
+  top: 4.796px;
+  overflow: visible;
+}
+#Ontdekken {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 63px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  color: rgba(251, 167, 9, 1);
+}
+#Group_4 {
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 353.8556, 115.1544)
+    rotate(90deg);
+  transform-origin: center;
+  position: absolute;
+  width: 72px;
+  height: 13px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Ontwikkelen {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 73px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  color: rgba(237, 33, 32, 1);
+}
+#Group_5 {
+  position: absolute;
+  width: 51px;
+  height: 12px;
+  left: 247.425px;
+  top: 385.07px;
+  overflow: visible;
+}
+#Feedback {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 52px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  color: rgba(0, 167, 77, 1);
+}
